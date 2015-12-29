@@ -1,0 +1,11 @@
+It only shows the diffence between each file, allowing us to ignore the parts the did not change.
+
+It's easier to keep track of all the changes that you made
+and specific things that was worked on.
+
+Multi-File Commits
+----------------------------
+Some files are dependent on others, so if you make a change in one file, you might need to make a corrisponding change in another.
+
+
+It make you more confident becuase you can always revert back to another commit where the code was still working :).
