@@ -4,6 +4,21 @@ What happens when you initialize a repository? Why do you need to do it?
 When you initilize a repository what happens it creates the .git folder. You need to initilize to make your project into a git project.
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
+-------------------------------------------------------------------------------------------------------------------------------------------
 
 It allows you to add files you are ready to commit, and leave out the one you are not. It allows you to work on multiple things at a time. For example you might have one
 thing to work on that aquires a lot of work, but also have another thing that you are working on that does not aquire as much work you may just one to commit the second thing first as you countiue to work on the first thing.
+
+How can you use the staging area to make sure you have one commit per logical change?
+-------------------------------------------------------------------------------------
+
+By making sure each file you want to commit from the working area to the staging area fit the logic change that you want to make
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+----------------------------------------------------------------------------------------------------------------------
+Branching helps by orginzing you project into different section to been worked on for example each new realses of a project may have a branch to respesent that realase.
+
+How do the diagrams help you visualize the branch structure?
+--------------------------------------------------
+It let's you know where you brached off from the master, and let you know what commits are assosiated with your branch.
