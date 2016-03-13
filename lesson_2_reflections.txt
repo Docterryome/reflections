@@ -18,10 +18,21 @@ By making sure each file you want to commit from the working area to the staging
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 ----------------------------------------------------------------------------------------------------------------------
-Branching helps by orginzing you project into different section to been worked on for example each new realses of a project may have a branch to respesent that realase.
+Branching helps by organizing your project into different section to been worked on for example each new realeases of a project may have a branch to respesent that realese.
 
 
 
 How do the diagrams help you visualize the branch structure?
---------------------------------------------------
-It let's you know where you brached off from the master, and let you know what commits are assosiated with your branch.
+-------------------------------------------------------------------------
+It let's you know where you brached off from the master, and let you know what commits are assosiated with your branch. Diagrams help visualize the branch sturcture by showing you the branch structure.
+
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+----------------------------------------------------------------------------------------------------------------------
+When you merge two branches together all the commits and chages that where made will be put together as if they were all apart of one branch. It's represented in the diagram the way it is to help visualize where branch was vered off and put back together.
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+------------------------------------------------------------------------------------------------
+The pro of automcatic merging is that when two seprate changes have been made it will merge those changes together without the user having to do anything which saves a lot of time. The con side of it however the two commits may be seperate changes, but it may contradict with each other.
