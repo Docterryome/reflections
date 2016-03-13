@@ -6,8 +6,7 @@ When you initilize a repository what happens it creates the .git folder. You nee
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 -------------------------------------------------------------------------------------------------------------------------------------------
-It allows you to add files you are ready to commit, and leave out the one you are not. It allows you to work on multiple things at a time. For example you might have one
-thing to work on that aquires a lot of work, but also have another thing that you are working on that does not aquire as much work you may just one to commit the second thing first as you countiue to work on the first thing.
+It allows you to add files you are ready to commit, and leave out the one you are not. It allows you to work on multiple things at a time. For example you might have one thing to work on that aquires a lot of work, but also have another thing that you are working on that does not aquire as much work you may just one to commit the second thing first as you countiue to work on the first thing.
 
 
 
