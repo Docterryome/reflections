@@ -1,11 +1,22 @@
 It only shows the diffence between each file, allowing us to ignore the parts the did not change.
 
-It's easier to keep track of all the changes that you made
-and specific things that was worked on.
 
-Multi-File Commits
-----------------------------
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+---------------------------------------------------------------------------------------
+The pros of manually commiting files will alow logical commits that are based on a feature or a task. The con is that a person may forget to commit when they need to or commit way to ofter. The pro of atuomatically having it save is that there will always be a backup, even if a user forgets to save. The con is that it won't be consitent with logical changes.
+
+
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
 Some files are dependent on others, so if you make a change in one file, you might need to make a corrisponding change in another.
 
 
+How can you use the commands git log and git diff to view the history of files?
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+You can use git log to find all of the commits that happend inside the project, and you can use git diff to find all diffences between commits.
+
+
+How might using version control make you more confident to make changes that could break something?
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 It make you more confident becuase you can always revert back to another commit where the code was still working :).
